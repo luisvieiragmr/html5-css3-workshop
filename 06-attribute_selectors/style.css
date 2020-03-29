@@ -1,0 +1,62 @@
+/*
+The first three rules add
+a UK, German, and Spanish flag icon respectively
+to the left hand side of the list items.
+
+You need to fill in appropriate attribute selectors
+so that the teams are given their correct country flags,
+matched by language.
+*/
+
+li {
+  background: url('http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/en-GB.png')
+    5px center no-repeat;
+}
+li {
+  background: url('http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/de.png')
+    5px center no-repeat;
+}
+
+li {
+  background: url('http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/es.png')
+    5px center no-repeat;
+}
+
+/*
+Rules 4–6 add a background color to the list items
+to indicate whether the team has gone
+up in the league (green, rgba(0,255,0,0.7)),
+down (red, rgba(255,0,0,0.5)),
+or stayed in the same place (blue, rgba(0,0,255,0.5).)
+Fill in the appropriate attribute selectors to match the correct colors
+to the correct teams, matched by the inc, same and dec strings
+that appear in the data-perf attribute values.
+*/
+
+li {
+  background-color: rgba(0, 255, 0, 0.7);
+}
+
+li {
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+li {
+  background-color: rgba(255, 0, 0, 0.7);
+}
+
+/*
+Rules 7–8 make teams that are set to be promoted bold,
+and teams that are in danger of being relegated italic and gray.
+Fill in appropriate attribute selectors to match these styles to the correct teams,
+matched by the pro and rel strings that appear in the data-perf attribute values.
+*/
+
+li {
+  font-weight: bold;
+}
+
+li {
+  font-style: italic;
+  color: #666;
+}
