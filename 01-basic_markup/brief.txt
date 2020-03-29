@@ -1,0 +1,18 @@
+Create a new .html file using your text editor to do your work
+
+Hints and tips
+Use the W3C HTML validator to validate your HTML; you'll get bonus points if it validates.
+
+Block/structural semantics:
+
+You should structure the overall document with an appropriate structure including doctype, and <html>, <head> and <body> elements.
+
+The letter in general should be marked up with a structure of paragraphs and headings,
+
+The names of the sender and receiver (and "Tel" and "Email") should be marked up with strong importance.
+
+The first address and first date in the letter should be given a class attribute value of "sender-column";
+
+There are two places where a hyperlink should be added; add appropriate links with titles. For the location that the links point to, just use http://example.com
+
+
