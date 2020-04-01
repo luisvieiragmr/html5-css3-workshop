@@ -1,0 +1,15 @@
+General text styling:
+
+-Give the page <body> a font-size of 10px.
+-Set the <html> font to helvetica
+-Give your body text a suitable line-height.
+-Give your headings a little bit of letter-spacing to make them not too too squashed, and allow the letters to breathe a bit.
+
+Links:
+
+Give the link, visited, focus, and hover states some colors
+Make it so that links are underlined by default, but when you hover or focus them, the underline disappears.
+Make it so that external links have a @ symbol after them
+
+Lists:
+Give your list items a nice bullet, appropriate for the design of the page. It is up to you whether you choose a custom bullet image or something else.

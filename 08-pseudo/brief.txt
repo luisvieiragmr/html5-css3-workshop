@@ -1,0 +1,7 @@
+1- Style the first line of the paragraph in bold,
+and the first letter with 32px size
+
+2 - Create a zebra style colored list,
+you'll need to use a pseudo class like :nth-of-type().
+even list items should be yellow, odd should be red
+See if you can find out how to do this!

@@ -1,0 +1,5 @@
+1-Style links, but only links that are inside the unordered list.
+
+2-All paragraphs that appear after an h2 should be red
+
+3-The paragraph that comes directly after the top-level heading should be blue.
