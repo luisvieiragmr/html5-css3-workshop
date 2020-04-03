@@ -1,0 +1,5 @@
+Use the given font in the document
+
+All headings should use the bold variant
+
+All paragraphs should use the regular variant
