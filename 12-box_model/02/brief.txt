@@ -1,0 +1,10 @@
+1 - Set a margin of 30px and a padding of 30px on every side of the <main> element
+
+2 -	h1 elements have 1px red solid borders, background color #D18C1D, and 10px of space between the content and the border (padding)
+
+3 - List items have 15px extra space around them (margin) and background color #C0A9DB
+
+4 - Paragraphs are contained in 600px by 400px boxes with 2px black dotted borders and background color #D1D631
+
+5 - All h2 have a 3px blue dashed border on the bottom only, and background color #A1A1A1
+

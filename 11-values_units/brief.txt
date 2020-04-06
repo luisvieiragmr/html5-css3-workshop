@@ -1,0 +1,16 @@
+1 - h1 is centered, and blue and double the browser base size, try this with rem
+
+2 - An <abbr> inside a p should have half of its size,try this with em
+
+3 - .third should have a width of 50%
+
+4 - .third background color should be pink set in hsl
+check https://www.w3schools.com/colors/colors_hsl.asp
+
+5 - .second background color should be blue set in rgb
+check https://www.w3schools.com/colors/colors_rgb.asp
+
+6 - .first background color should be red set in hexadecimal
+check https://www.w3schools.com/colors/colors_picker.asp
+
+6 - .first should be transparent

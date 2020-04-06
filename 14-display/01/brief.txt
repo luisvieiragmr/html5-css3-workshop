@@ -1,0 +1,5 @@
+1 - set the width of the span selector to 30 px, see what happens
+
+2 - set the padding of the span to 10px, see what happens
+
+3 - set the height of the span to 20px, see what happens
