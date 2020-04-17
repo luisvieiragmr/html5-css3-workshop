@@ -1,0 +1,16 @@
+
+@mixin box($width, $height) {
+  width: $width;
+  height: $height;
+}
+
+%message-shared {
+  padding: 10px;
+  margin:10px;
+  color: #333;
+}
+
+.color {
+  color:$color-secondary-light;
+
+}
